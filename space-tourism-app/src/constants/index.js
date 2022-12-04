@@ -25,14 +25,14 @@ export const features = [
     icon: star,
     title: "We plan everything",
     content:
-      "Let us take care of all the planning of your next trip to space!",
+      "Let us take care of all the planning of your next trip to space! Easy and straightforward guidance.",
   },
   {
     id: "feature-2",
     icon: shield,
     title: "100% Satisfaction guaranteed",
     content:
-      "We now what makes for a great and safe trip. You can feel secure that we've got it covered! And if not, you get a full refund.",
+      "We know what makes for a epic, fun and safe trip. You can feel secure that we've got it covered! And if not, you get a full refund.",
   },
   {
     id: "feature-3",

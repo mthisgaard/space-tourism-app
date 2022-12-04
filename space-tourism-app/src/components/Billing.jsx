@@ -11,7 +11,7 @@ const Billing = () => (
     </div>
     <div className={layout.sectionInfo}>
       <h2 className={styles.heading2}>Best Seller: <br className="sm:block hidden"/> To The Moon!</h2>
-      <p className={`${styles.paragraph} max-w-[470px] mt-5`}>Have you always dreamt of taking those same steps and Neil Armstrong and bounce your way across the lunar surface? Well now you can!</p>
+      <p className={`${styles.paragraph} max-w-[470px] mt-5`}>Have you always dreamt of taking those same steps as Neil Armstrong and bounce your way across the lunar surface? Well now you can!</p>
       <Button styles="mt-10"/>
     </div>
   </section>
