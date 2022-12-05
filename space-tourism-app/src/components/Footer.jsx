@@ -1,5 +1,4 @@
 import styles from '../style';
-import { logo } from '../assets';
 import { footerLinks, socialMedia} from '../constants'
 
 const Footer = () => (
@@ -7,7 +6,7 @@ const Footer = () => (
     <div className={`${styles.flexStart} md:flex-row flex-col mb-8 w-full`}>
       <div className="flex-1 flex flex-col justify-start mr-10">
       <span className="text-gradient text-[64px]">BEYOND</span>
-        <p className={`${styles.paragraph} mt-4 max-w-[310px]`}>Space within your reach</p>
+        <p className={`${styles.paragraph} mt-4 max-w-[310px]`}>Travel To Space Today</p>
       </div>
       <div className="flex-[1.5] w-full flex flex-row justify-between flex-wrap md:mt-0 mt-10">
         {footerLinks.map((footerLink) => (

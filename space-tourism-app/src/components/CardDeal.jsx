@@ -1,4 +1,4 @@
-import { card } from '../assets';
+import { galaxy } from '../assets';
 import styles, { layout } from '../style';
 import Button from './Button';
 
@@ -11,7 +11,7 @@ const CardDeal = () => (
       <Button styles="mt-10"/>
     </div>
     <div className={layout.sectionImg}>
-      <img src={card} alt="card" className="w-[100%] h-[100%]" />
+      <img src={galaxy} alt="galaxy" className="w-[100%] h-[100%] rounded-lg bg-blend-lighten" />
     </div>
   </section>
 )

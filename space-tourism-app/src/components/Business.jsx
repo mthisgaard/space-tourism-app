@@ -22,7 +22,7 @@ const Business = () => {
   return (
     <section id="about" className={layout.section}>
       <div className={layout.sectionInfo}>
-        <h2 className={styles.heading2}>With Beyond <br className="sm:block hidden"/> Space Is Within Reach</h2>
+        <h2 className={styles.heading2}>With Beyond Space Is <br className="sm:block hidden"/> Just Around The Corner</h2>
         <p className={`${styles.paragraph} max-w-[470px] mt-5`}>Space tourism was once a distant dream, but now it's here! Beyond will send you wherever you want to go, from the moon to the furthes reaches of the galaxy.</p>
         <Button styles="mt-10" />
       </div>
