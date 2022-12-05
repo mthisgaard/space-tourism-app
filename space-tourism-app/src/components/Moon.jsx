@@ -3,7 +3,7 @@ import styles, { layout } from '../style';
 import Button from './Button';
 
 const Moon = () => (
-  <section id="tours" className={layout.sectionReverse}>
+  <section id="trips" className={layout.sectionReverse}>
     <div className={layout.sectionImgReverse}>
       <img src={moon} alt="moon" className="w-[100%] h-[100%] relative z-[5] rounded-lg bg-blend-lighten" />
       <div className="absolute z-[3] -left-1/2 top-0 w-[50%] h-[50%] rounded-full white__gradient"/>

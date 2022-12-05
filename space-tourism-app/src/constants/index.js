@@ -10,8 +10,8 @@ export const navLinks = [
     title: "About",
   },
   {
-    id: "tours",
-    title: "Tours",
+    id: "trips",
+    title: "Trips",
   },
   {
     id: "reviews",
@@ -25,7 +25,7 @@ export const features = [
     icon: star,
     title: "We plan everything",
     content:
-      "Let us take care of all the planning of your next trip to space! Easy and straightforward guidance.",
+      "Let us take care of all the planning of your next trip to space! Lean back and enjoy, easy and straightforward traveling",
   },
   {
     id: "feature-2",
