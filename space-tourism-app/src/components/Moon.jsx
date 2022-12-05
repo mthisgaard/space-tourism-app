@@ -2,7 +2,7 @@ import { moon } from '../assets';
 import styles, { layout } from '../style';
 import Button from './Button';
 
-const Billing = () => (
+const Moon = () => (
   <section id="tours" className={layout.sectionReverse}>
     <div className={layout.sectionImgReverse}>
       <img src={moon} alt="moon" className="w-[100%] h-[100%] relative z-[5] rounded-lg bg-blend-lighten" />
@@ -17,4 +17,4 @@ const Billing = () => (
   </section>
 )
 
-export default Billing
+export default Moon

@@ -2,7 +2,7 @@ import { galaxy } from '../assets';
 import styles, { layout } from '../style';
 import Button from './Button';
 
-const CardDeal = () => (
+const Galaxy = () => (
   <section className={layout.section}>
     <div className={layout.sectionInfo}>
       <h2 className={styles.heading2}>Trip Along <br className="sm:block hidden"/> The Milky Way</h2>
@@ -16,4 +16,4 @@ const CardDeal = () => (
   </section>
 )
 
-export default CardDeal
+export default Galaxy
